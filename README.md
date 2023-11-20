@@ -29,7 +29,8 @@ https://roadmap.sh/
 
 # Table of Course Materials
 
-| Session  | Resource Link |
-|--|--|
-| Session 1 | [Click here](https://drive.google.com/drive/folders/19J-WdZVdoOG8uiZgX-PIx72XGQ0yTGkE?usp=drive_link) |
+| Session  | Resource Link | YouTube Video Link |
+|--|--|--|
+| Course Intro |  | [Watch on YouTube](https://youtu.be/xGmy1SQgcKo?list=PLqTVnOliYh6-m9DLBao3u4GyKTlS5VL4e) |
+| Session 1 | [Click here](https://drive.google.com/drive/folders/19J-WdZVdoOG8uiZgX-PIx72XGQ0yTGkE?usp=drive_link) |  |
 
