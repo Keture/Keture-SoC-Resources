@@ -26,3 +26,10 @@ https://roadmap.sh/
  - https://www.youtube.com/watch?v=Vt-Wf7d0CFo&ab_channel=ProgrammingMakeSense
 
 7. **Continual Learning and Improvement**
+
+# Table of Course Materials
+
+| Session  | Resource Link |
+|--|--|
+| Session 1 | [Click here](https://drive.google.com/drive/folders/19J-WdZVdoOG8uiZgX-PIx72XGQ0yTGkE?usp=drive_link) |
+
