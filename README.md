@@ -32,5 +32,5 @@ https://roadmap.sh/
 | Session  | Resource Link | YouTube Video Link |
 |--|--|--|
 | Course Intro | [Download here](https://drive.google.com/drive/folders/1UeUZcp7C7A0O_SxRIeoVwn46KO285ihY?usp=drive_link) | [Watch on YouTube](https://youtu.be/xGmy1SQgcKo?list=PLqTVnOliYh6-m9DLBao3u4GyKTlS5VL4e) |
-| Session 1 | [Download here](https://drive.google.com/drive/folders/19J-WdZVdoOG8uiZgX-PIx72XGQ0yTGkE?usp=drive_link) |  |
+| Session 1 | [Download here](https://drive.google.com/drive/folders/19J-WdZVdoOG8uiZgX-PIx72XGQ0yTGkE?usp=drive_link) | [Watch on YouTube](https://www.youtube.com/watch?v=dfV9WtczYxk) |
 
