@@ -1,4 +1,4 @@
-# Programming Basics (based on C Programming Language)
+# Programming Basics (based on C programming language)
 
 ## Programmer Roadmap
 
