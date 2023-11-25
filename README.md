@@ -1,4 +1,4 @@
-# C Intro Session
+# Programming Basics (based on C Programming Language)
 
 ## Programmer Roadmap
 
@@ -27,7 +27,7 @@ https://roadmap.sh/
 
 7. **Continual Learning and Improvement**
 
-# Table of Course Materials
+## Table of Course Materials
 
 | Session  | Resource Link | YouTube Video Link |
 |--|--|--|
